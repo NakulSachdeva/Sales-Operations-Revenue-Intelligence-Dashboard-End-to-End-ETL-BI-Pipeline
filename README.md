@@ -24,7 +24,7 @@ With a clean dataset, I built a relational backend using multiple **Pivot Table 
 
 ### 👥 Problem 1: Sales Team Efficiency & Performance Audit
 **The Analysis:** A granular audit of individual performance across the sales force to identify high-performers vs. coaching opportunities.
-* **The Solution:** This pivot tracks the "Middle of the Funnel." It identifies which reps are successfully converting high-value deals versus those stalled in the "Discovery" phase. This allows management to move away from generic meetings and toward targeted, data-backed coaching.
+* **The Solution:** This pivot tracks the "Middle of the Funnel." It identifies which reps are successfully converting high-value deals versus those stalled in the "Discovery" phase. This allows management to move away from generic meetings and toward targeted data decisions.
 ![Sales Team Audit](Sales%20Team%20Performance%20Audit.png)
 
 ### 🔍 Problem 2: Identifying "Waste" in Marketing Spend
