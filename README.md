@@ -25,16 +25,19 @@ With a clean dataset, I built a relational backend using multiple **Pivot Table 
 ### 👥 Problem 1: Sales Team Efficiency & Performance Audit
 **The Analysis:** A granular audit of individual performance across the sales force to identify high-performers vs. coaching opportunities.
 * **The Solution:** This pivot tracks the "Middle of the Funnel." It identifies which reps are successfully converting high-value deals versus those stalled in the "Discovery" phase. This allows management to move away from generic meetings and toward targeted data decisions.
+  
 ![Sales Team Audit](Sales%20Team%20Performance%20Audit.png)
 
 ### 🔍 Problem 2: Identifying "Waste" in Marketing Spend
 **The Analysis:** An audit of **Lead Quality** to ensure every dollar of the $13.44M pipeline is being spent on the right channels.
 * **The Solution:** By calculating the conversion rate per vendor, I identified that while **VoltEdge** provided the highest volume (43%), **SunLead Pro** delivered an 18% higher ROI per lead. This insight provides the evidence needed for strategic budget reallocation.
+  
 ![Marketing ROI Analysis](Marketing%20ROI.png)
 
 ### 🌍 Problem 3: Regional Market Saturation & Expansion
 **The Analysis:** A high-level view of **Market Penetration** across the US to find untapped growth.
 * **The Solution:** This view isolates revenue by State and Region. It revealed that the **Midwest** was hitting a 52% conversion rate—significantly outperforming the national average—signaling a prime geographical area for team expansion and increased marketing spend.
+  
 ![Regional Market Insights](Regional%20Market%20Penetration.png)
 
 > **The Connector:** All three engines are tied to a **Global Slicer Panel**. A single click on a "Region" or "Manager" slicer updates all three views simultaneously, providing an instant, 360-degree audit of any business segment.
