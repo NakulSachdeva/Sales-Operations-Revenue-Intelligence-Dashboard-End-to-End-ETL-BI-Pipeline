@@ -25,9 +25,9 @@ Standardized Vendor names so we could finally see the true ROI of partners like 
 Once the data was clean, I built a relational backend using multiple Pivot Tables. I didn't want a static report; I wanted a tool. I connected everything to a unified Slicer panel so a manager could filter the entire $13.44M pipeline by State or Vendor with one click.
 
 ### Key Performance Drivers
+![Sales Team Audit](Sales%20Team%20Performance%20Audit.png)
 ![Marketing ROI Analysis](Marketing%20ROI.png)
 ![Regional Market Insights](Regional%20Market%20Penetration.png)
-![Sales Team Audit](Sales%20Team%20Performance%20Audit.png)
 
 📊 Step 3: The Final Executive Interface
 The goal was to make Excel disappear. I stripped away the gridlines, headings, and formula bars to create a "Software-as-a-Service" (SaaS) feel.
@@ -49,6 +49,17 @@ Custom UI: Used custom formatting ($0.00"M") so the C-suite doesn't have to squi
 2. Open the file and navigate to the **Executive Dashboard** tab.
 3. Use the integrated **Slicers** to filter by Region, Lead Vendor, or Sales Representative.
 
-Open it and head to the Dashboard tab.
+## 🛠 Skills & Tools Applied
+* **Data Visualization:** KPI Card Design, Dynamic Slicers, Custom Number Formatting, UI/UX for Executive Reporting.
+* **ETL & Data Cleaning:** Power Query, Data Validation, Error Identification, Standardizing Categorical Data.
+* **Business Intelligence:** Pivot Table Logic, Multi-Dimensional Filtering, ROI Analysis, Lead Conversion Tracking.
+* **Domain Knowledge:** Sales Operations, Revenue Intelligence, CRM Data Audit.
 
-Use the Slicers on the left to drill down into specific regions or vendors.
+---
+
+## 🤝 Let's Connect
+If you have questions about the logic behind this $13.44M audit or want to discuss Data Analyst opportunities, feel free to reach out!
+
+* **LinkedIn:** [Nakul Sachdeva](https://www.linkedin.com/in/nakulsachdeva0/)
+* **Portfolio:** [Check out my other projects](https://github.com/NakulSachdeva)
+* **Email:** [nakulsachdeva.careers@gmail.com]
