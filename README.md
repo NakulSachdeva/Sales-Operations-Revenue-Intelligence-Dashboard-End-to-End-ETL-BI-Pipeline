@@ -1,7 +1,5 @@
-Sales Operations & Revenue Intelligence Hub
-From "Dirty" Data to a $13.44M Executive Dashboard
-📌 The Problem (The "Mess")
-The project started with a classic real-world problem: a massive, unstructured dump of sales leads and revenue data. It was full of typos, inconsistent naming (e.g., "TX" vs "Texas"), and no clear way to see which vendors were actually making us money.
+# 📈 Sales Operations & Revenue Intelligence Hub
+> **Project Scope:** Transforming a fragmented **$13.44M** dataset into an Executive-Grade BI Pipeline.
 
 I couldn't just build charts on top of that—the numbers would have been wrong.
 
