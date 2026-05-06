@@ -1,10 +1,8 @@
 # 📈 Sales Operations & Revenue Intelligence Hub
 > **Project Scope:** Transforming a fragmented **$13.44M** dataset into an Executive-Grade BI Pipeline.
 
-I couldn't just build charts on top of that—the numbers would have been wrong.
-
 ## ⚙️ Phase 1: High-Integrity ETL & Data Hygiene
-Before any visualization could happen, I engineered a robust **ETL (Extract, Transform, Load)** pipeline using **Power Query** to sanitize a fragmented dataset of 1,184+ records. 
+Before any visualization could happen, I engineered a robust **ETL (Extract, Transform, Load)** pipeline using **Power Query** to sanitize a fragmented dataset of 1,184+ records. I couldn't just build charts on top of that—the numbers would have been wrong.
 
 ### 🛠️ The Technical Deep-Clean:
 To ensure the **$13.44M** revenue figure was bulletproof, I executed the following transformations:
